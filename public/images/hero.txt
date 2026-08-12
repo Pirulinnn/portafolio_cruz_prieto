@@ -1,0 +1,2 @@
+<!-- TODO: CAMBIAR IMAGEN — Colocar aquí la imagen principal del héroe (recomendado: 1800×1200px, WebP o JPEG comprimido <300KB) -->
+Este archivo es un placeholder. Reemplázalo con la imagen real.

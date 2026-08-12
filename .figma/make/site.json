@@ -1,0 +1,10 @@
+{
+  "description": "Showcases a painter's artwork through a visually striking and innovative portfolio that captivates visitors and highlights artistic talent.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

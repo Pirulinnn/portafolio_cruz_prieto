@@ -1,0 +1,17 @@
+<!-- INSTRUCCIONES PARA IMÁGENES DE OBRAS -->
+
+Colocar aquí las imágenes de cada obra con los nombres:
+- obra-1.jpg  (corresponde a "Umbra I" en works.ts)
+- obra-2.jpg  (corresponde a "Erosión del Mar")
+- obra-3.jpg  (corresponde a "Latencia")
+- obra-4.jpg  (corresponde a "Arco Celeste")
+- obra-5.jpg  (corresponde a "Resurgir")
+- obra-6.jpg  (corresponde a "Velo Azul")
+- obra-7.jpg  (corresponde a "Capa Naranja")
+- obra-8.jpg  (corresponde a "Horizonte Dual")
+
+RECOMENDACIONES:
+- Formato: WebP preferido, JPEG como alternativa
+- Resolución máxima: 1800px de ancho
+- Peso máximo: 200KB por imagen
+- Aspect ratio: mantener el original de cada obra
