@@ -113,7 +113,7 @@ export default function Hero({ onNavigate, hoverIn, hoverOut }: HeroProps) {
               onMouseLeave={hoverOut}
               className="cta-button shadow-md hover:shadow-lg"
             >
-              Ver obra & monumentos
+              Ver obras & monumentos
               <svg width="20" height="8" viewBox="0 0 20 8" fill="none">
                 <path
                   d="M0 4h18M15 1l3 3-3 3"
