@@ -14,7 +14,7 @@ export default function Hero({ onNavigate, hoverIn, hoverOut }: HeroProps) {
       style={{ backgroundColor: "var(--color-bg)" }}
     >
       {/* 1. Capa de Fondo (z-0): Canvas WebGL interactivo en tonos marinos */}
-      <div className="absolute inset-0 z-0 pointer-events-none opacity-75">
+      <div className="absolute inset-0 z-0 pointer-events-none">
         <ShaderBackground className="w-full h-full" />
       </div>
 
@@ -23,14 +23,14 @@ export default function Hero({ onNavigate, hoverIn, hoverOut }: HeroProps) {
         className="absolute inset-0 z-1 pointer-events-none"
         style={{
           background:
-            "linear-gradient(to right, oklch(from var(--color-bg) l c h / 0.92) 0%, oklch(from var(--color-bg) l c h / 0.55) 50%, transparent 100%)",
+            "linear-gradient(to right, oklch(from var(--color-bg) l c h / 0.70) 0%, oklch(from var(--color-bg) l c h / 0.30) 50%, transparent 100%)",
         }}
       />
       <div
         className="absolute inset-0 z-1 pointer-events-none"
         style={{
           background:
-            "linear-gradient(to top, var(--color-bg) 0%, transparent 35%)",
+            "linear-gradient(to top, var(--color-bg) 0%, transparent 20%)",
         }}
       />
 

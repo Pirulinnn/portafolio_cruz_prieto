@@ -32,7 +32,7 @@ export default function About() {
             className="font-body text-base font-light mb-6 leading-relaxed"
             style={{ color: "var(--color-body)" }}
           >
-            Cruz Prieto es un reconocido artista plástico y escultor venezolano,
+            Cruz Miguel Prieto Malaver es un reconocido artista plástico y escultor venezolano,
             declarado <strong className="font-semibold text-[var(--color-heading)]">Patrimonio del Estado y de la Nación</strong>.
             Nacido en la Calle Lárez de La Asunción, estado Nueva Esparta el 16 de septiembre de 1959,
             hijo de José Miquel Prieto (Nene) y Aura Bartola de Prieto.

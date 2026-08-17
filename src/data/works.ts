@@ -34,4 +34,6 @@ export const WORKS: Work[] = [
   { id: 27, img: "/images/works/WhatsApp Image 2026-08-12 at 1.10.30 AM (3).jpeg" },
   { id: 28, img: "/images/works/WhatsApp Image 2026-08-12 at 1.10.30 AM (4).jpeg" },
   { id: 29, img: "/images/works/WhatsApp Image 2026-08-12 at 1.10.30 AM.jpeg" },
+  /* ── Nueva pintura agregada a la galería ── */
+  { id: 30, img: "/images/works/0bcb5f2d-97d4-4ec6-8b86-ac7912b2a9b3.jpeg" },
 ]
